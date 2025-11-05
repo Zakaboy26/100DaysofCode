@@ -1,5 +1,4 @@
 ## Day 7 Project: Beginner Hangman
-\
 ## Table of contents
 
 - [Overview](#overview)
