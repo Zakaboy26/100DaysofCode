@@ -1,0 +1,80 @@
+import random
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
+
+'''
+print("Welcome to the PyUser Generator!")
+no_letters = int(input("How many letters would you like in your username?\n"))
+no_symbols = int(input(f"How many symbols would you like?\n"))
+no_numbers = int(input(f"How many numbers would you like?\n"))
+
+user_list = []
+
+for char in range(0, no_letters):
+    user_list.append(random.choice(letters))
+
+for char in range(0, no_symbols):
+    user_list.append(random.choice(symbols))
+
+for char in range(0, no_numbers):
+    user_list.append(random.choice(numbers))
+
+random.shuffle(user_list)
+
+final_user = ""
+for char in user_list:
+    final_user+= char
+
+print(f"your final username is: {final_user}")'''
+
+
+##########################################################
+print("Welcome to the PyPass Generator!")
+no_letters = int(input("How many letters would you like in your password?\n"))
+no_symbols = int(input(f"How many symbols would you like?\n"))
+no_numbers = int(input(f"How many numbers would you like?\n"))
+
+passlist = []
+
+for char in range(0,no_letters):
+    passlist.append(random.choice(letters))
+
+for char in range(0,no_symbols):
+    passlist.append(random.choice(symbols))
+
+for char in range(0,no_numbers):
+    passlist.append(random.choice(numbers))
+
+random.shuffle(passlist)
+
+finalpass = ""
+
+for char in passlist:
+    finalpass += char
+
+print(f"Your generated password is: {finalpass}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
