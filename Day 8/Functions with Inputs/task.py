@@ -1,7 +1,0 @@
-def greet(name): ###THIS IS THE PARAMETER --->
-    print(f"Hello {name}!")
-    ### BASICALLY A PLACEHOLDER/NAME YOU GIVE TO SOMETHING YOUR FUNCTION WILL USE
-
-greet(input("What's your name? ")) ###THIS IS THE ARGUMENT --->
-        ### THE ACTUAL VALUE YOU GIVE TO THE PLACEHOLDER WHEN YOU CALL THE FUNCTION
-
