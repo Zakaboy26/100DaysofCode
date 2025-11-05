@@ -1,9 +1,6 @@
 type: theory
 files:
-  - name: task.py
-    visible: true
-    learner_created: false
-  - name: solution.py
+  - name: Day1Exercise.py
     visible: true
     learner_created: true
 status: Solved
