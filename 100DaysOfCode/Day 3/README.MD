@@ -19,8 +19,8 @@
 
 ### Links
 
-- Solution: [Treasure Island Hunt](100DaysOfCode/Day 3/Day3TreasureIsland.py)
-            [Pizza Order Program](100DaysOfCode/Day 3/Day3Pizza.py)
+- Solution: [Treasure Island Hunt](https://github.com/Zakaboy26/100DaysofCode/blob/main/100DaysOfCode/Day%203/Day3TreasureIsland.py)
+            [Pizza Order Program](https://github.com/Zakaboy26/100DaysofCode/blob/main/100DaysOfCode/Day%203/Day3Pizza.py)
 
 ### Built with
 
