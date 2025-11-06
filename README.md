@@ -8,8 +8,6 @@ This repository is still a work in progress.
 
 ---
 
-## 🧩 Beginner Projects
-
 **Day 1 – [Band Name Generator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%201)**  
 *Topics:* Printing, String Manipulation, Variables
 
