@@ -6,12 +6,21 @@ This repository contains my notes and completed Python exercises which I'm compl
 I’m currently on **Day 8**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
 
-Coming from a Java (Spring Boot) background during university, I wanted to build upon my understanding of Object-Oriented Programming (OOP) further by learning Python.
-My internship exposure to FarmStack (a full-stack framework built on Python) sparked my interest in exploring Python’s simplicity and flexibility along with how it can make me a more versatile developer.
+### 💡 Why Python?
 
-This course is helping me:
+Coming from a **Java (Spring Boot)** background during university, I wanted to expand my programming foundation by learning **Python**, a language known for its versatility across different domains such as **web development**, **automation**, **data analysis** and **DevOps**.  
 
-Strengthen my understanding of core programming logic without heavy frameworks.
+My **internship exposure to FarmStack** (a full-stack framework built on Python) sparked my interest in the language even more.  
+At my internship, Python was used **across multiple areas**, from **backend development** to **DevOps automation** and other internal tools.  
+Seeing its flexibility in real projects made me want to understand it deeply and use it to become a more **well-rounded and adaptable developer**.
+
+---
+
+### 📚 How This Challenge Will Benefit Me
+
+- Strengthen my understanding of **core programming logic** and **problem-solving**  
+- Explore Python’s versatility across **scripting**, **automation** and **backend development**  
+- Broaden my experience working with **different OOP languages and paradigms**
 
 ---
 
@@ -42,7 +51,7 @@ Strengthen my understanding of core programming logic without heavy frameworks.
 ---
 
 ### 📘 About This Repo
-This repository is for my personal learning and reference as I work through the **100 Days of Python** course by *Angela Yu*.  
+This repository is for my personal learning and reference as I go through the 100 days of coding challenge, focusing on Python.  
 Portfolio projects and advanced sections will be uploaded separately once completed.
 
 ---
