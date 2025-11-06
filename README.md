@@ -6,6 +6,13 @@ This repository contains my notes and completed Python exercises which I'm compl
 I’m currently on **Day 8**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
 
+Coming from a Java (Spring Boot) background during university, I wanted to build upon my understanding of Object-Oriented Programming (OOP) further by learning Python.
+My internship exposure to FarmStack (a full-stack framework built on Python) sparked my interest in exploring Python’s simplicity and flexibility along with how it can make me a more versatile developer.
+
+This course is helping me:
+
+Strengthen my understanding of core programming logic without heavy frameworks.
+
 ---
 
 **Day 1 – [Band Name Generator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%201)**  
