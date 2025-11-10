@@ -3,7 +3,7 @@
 Hello, my name is **Zakariya**.  
 This repository contains my notes and completed Python exercises which I'm completing daily as part of the **100 Days of Coding Challenge**.
 
-I’m currently on **Day 8**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
+I’m currently on **Day 10**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
 
 ### 💡 Why Python?
