@@ -48,6 +48,9 @@ Seeing its flexibility in real projects made me want to understand it deeply and
 **Day 8 – [Caesar Cipher](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%208)**  
 *Topics:* Functions with Inputs, Positional vs Keyword Arguments
 
+**Day 9 – [Silent Auction Program](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%209)**  
+*Topics:* Dictionaries, Nesting, Functions, Looping to Find Max Value
+
 ---
 
 ### 📘 About This Repo
@@ -56,5 +59,5 @@ Portfolio projects and advanced sections will be uploaded separately once comple
 
 ---
 
-📅 **Current Progress:** Day 8 / 100  
+📅 **Current Progress:** Day 10 / 100  
 ⭐ **Goal:** Complete all 100 days and document each project for my own self-development.
