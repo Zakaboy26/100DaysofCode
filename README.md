@@ -3,7 +3,7 @@
 Hello, my name is **Zakariya**.  
 This repository contains my notes and completed Python exercises which I'm completing daily as part of the **100 Days of Coding Challenge**.
 
-I’m currently on **Day 10**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
+I’m currently on **Day 11**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
 
 ### 💡 Why Python?
@@ -51,6 +51,9 @@ Seeing its flexibility in real projects made me want to understand it deeply and
 **Day 9 – [Silent Auction Program](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%209)**  
 *Topics:* Dictionaries, Nesting, Functions, Looping to Find Max Value
 
+**Day 10 – [Text-Based Calculator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%2010)**  
+*Topics:* Functions with Outputs, Docstrings, Print vs Return, While Loops, Flags, and Recursion
+
 ---
 
 ### 📘 About This Repo
@@ -59,5 +62,5 @@ Portfolio projects and advanced sections will be uploaded separately once comple
 
 ---
 
-📅 **Current Progress:** Day 10 / 100  
+📅 **Current Progress:** Day 11 / 100  
 ⭐ **Goal:** Complete all 100 days and document each project for my own self-development.
