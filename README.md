@@ -51,7 +51,7 @@ Seeing its flexibility in real projects made me want to understand it deeply and
 **Day 9 – [Silent Auction Program](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%209)**  
 *Topics:* Dictionaries, Nesting, Functions, Looping to Find Max Value
 
-**Day 10 – [Text-Based Calculator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%2010)**  
+**Day 10 – [Python Calculator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%2010)**  
 *Topics:* Functions with Outputs, Docstrings, Print vs Return, While Loops, Flags, and Recursion
 
 ---
