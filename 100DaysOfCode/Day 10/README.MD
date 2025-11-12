@@ -1,4 +1,4 @@
-## Day 10 Project: Text-Based Calculator
+## Day 10 Project: Python Calculator
 
 ## Table of contents
 
