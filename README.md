@@ -1,7 +1,7 @@
 # 🐍 100 Days of Python
 
-Hello, my name is **Zakariya**.  
-This repository contains my notes and completed Python exercises which I'm completing daily as part of the **100 Days of Coding Challenge**.
+Hello, my name is Zakariya.  
+This repository contains my completed Python projects which I'm doing daily as part of the **100 Days of Coding Challenge**.
 
 I’m currently on **Day 11**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
