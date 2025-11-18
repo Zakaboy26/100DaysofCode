@@ -16,7 +16,7 @@
 
 ### The challenge
 
-- Build a simple text-based **Blackjack** game using core Python concepts.
+- Build a text-based **Blackjack** game using core Python concepts.
 - The game must:
   - Deal cards to player and dealer
   - Handle Aces as 11 or 1
