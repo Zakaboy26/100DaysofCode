@@ -18,8 +18,11 @@ calculator_dictionary = {
     "*": multiply,
     "/": divide
 }
+def clear_screen():
+    print("\n" * 100)
 
 def calculator():
+    print(art.logo)
     first_number = float(input("What's the first number?: "))
     should_continue = True
 
@@ -31,6 +34,7 @@ def calculator():
 
         continue_answer = input(f"Type 'Y' to continue calculating with {answer} or type 'N' to start a new calculator").upper()
         if continue_answer == "Y":
+            clear_screen()
             first_number = answer
         elif continue_answer == "N":
             should_continue = False
@@ -39,7 +43,6 @@ def calculator():
             print("Invalid input")
             should_continue = False
 
-print(art.logo)
 calculator()
 
 
