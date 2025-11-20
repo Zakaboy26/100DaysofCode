@@ -3,7 +3,7 @@
 Hello, my name is Zakariya.  
 This repository contains my completed Python projects which I'm doing daily as part of the **100 Days of Coding Challenge**.
 
-I’m currently on **Day 11**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
+I’m currently on **Day 12**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
 
 ### 💡 Why Python?
@@ -54,6 +54,9 @@ Seeing its flexibility in real projects made me want to understand it deeply and
 **Day 10 – [Python Calculator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%2010)**  
 *Topics:* Functions with Outputs, Docstrings, Print vs Return, While Loops, Flags, and Recursion
 
+**Day 11 – [Blackjack Game](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day11)**  
+*Topics:* Functions, Return Values, Loops, Conditionals, Random Module, Game Logic  
+
 ---
 
 ### 📘 About This Repo
@@ -62,5 +65,5 @@ Portfolio projects and advanced sections will be uploaded separately once comple
 
 ---
 
-📅 **Current Progress:** Day 11 / 100  
+📅 **Current Progress:** Day 12 / 100  
 ⭐ **Goal:** Complete all 100 days and document each project for my own self-development.
