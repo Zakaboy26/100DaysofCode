@@ -22,13 +22,13 @@
 
 ### Links
 
-- Solution URL: *[The Number Guessing Game](YOUR_GITHUB_LINK_HERE)*  
-  *(Replace with your repo path once uploaded)*
+- **Solution URL:**  
+  https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day12
 
 ## Notes
 
 ### Tools
-- [Python Tutor](https://pythontutor.com/visualize.html#mode=edit) — for stepping through loops and scope
+- [Python Tutor](https://pythontutor.com/visualize.html#mode=edit)
 
 ### Built with
 
@@ -36,9 +36,8 @@
 
 ### What I learned
 
-- How to split game logic across **multiple functions**
-- How to use a **compare function** to evaluate player guesses
-- Understanding **global vs local scope**
-- How to update a global value the **clean way** (return → assign)
-- Using **constants** and why they matter (e.g., difficulty settings)
-- Cleaner flow control using `if / elif` and separate logic groups
+- How to break logic across **multiple functions**
+- Using a dedicated **comparison function** to clean up main game flow
+- Understanding **namespaces** and how Python resolves variables
+- Difference between **local vs global scope**
+- How constants improve readability and maintainability
