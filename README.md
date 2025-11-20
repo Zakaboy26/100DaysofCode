@@ -3,12 +3,14 @@
 Hello, my name is Zakariya.  
 This repository contains my completed Python projects which I'm doing daily as part of the **100 Days of Coding Challenge**.
 
-I’m currently on **Day 12**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
+I’m currently on **Day 13**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
+
+---
 
 ### 💡 Why Python?
 
-Coming from a **Java (Spring Boot)** background during university, I wanted to expand my programming foundation by learning **Python**, a language known for its versatility across different domains such as **web development**, **automation**, **data analysis** and **DevOps**.  
+Coming from a **Java (Spring Boot)** background during university, I wanted to expand my programming foundation by learning **Python**, a language known for its versatility across different domains such as **web development**, **automation**, **data analysis** and **DevOps**.
 
 My **internship exposure to FarmStack** (a full-stack framework built on Python) sparked my interest in the language even more.  
 At my internship, Python was used **across multiple areas**, from **backend development** to **DevOps automation** and other internal tools.  
@@ -18,11 +20,13 @@ Seeing its flexibility in real projects made me want to understand it deeply and
 
 ### 📚 How This Challenge Will Benefit Me
 
-- Strengthen my understanding of **core programming logic** and **problem-solving**  
-- Explore Python’s versatility across **scripting**, **automation** and **backend development**  
+- Strengthen my understanding of **core programming logic** and **problem-solving**
+- Explore Python’s versatility across **scripting**, **automation**, and **backend development**
 - Broaden my experience working with **different OOP languages and paradigms**
 
 ---
+
+### 🔢 Daily Projects
 
 **Day 1 – [Band Name Generator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%201)**  
 *Topics:* Printing, String Manipulation, Variables
@@ -52,18 +56,22 @@ Seeing its flexibility in real projects made me want to understand it deeply and
 *Topics:* Dictionaries, Nesting, Functions, Looping to Find Max Value
 
 **Day 10 – [Python Calculator](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day%2010)**  
-*Topics:* Functions with Outputs, Docstrings, Print vs Return, While Loops, Flags, and Recursion
+*Topics:* Functions with Outputs, Docstrings, Print vs Return, While Loops, Flags, Recursion
 
 **Day 11 – [Blackjack Game](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day11)**  
-*Topics:* Functions, Return Values, Loops, Conditionals, Random Module, Game Logic  
+*Topics:* Functions, Return Values, Loops, Conditionals, Random Module, Game Logic
+
+**Day 12 – Number Guessing Game**  
+*Topics:* Functions, Scope, Global vs Local Variables, Constants, Loop Logic, Game Design
 
 ---
 
 ### 📘 About This Repo
-This repository is for my personal learning and reference as I go through the 100 days of coding challenge, focusing on Python.  
+
+This repository is for my personal learning and reference as I go through the **100 Days of Coding Challenge**, focusing on Python.  
 Portfolio projects and advanced sections will be uploaded separately once completed.
 
 ---
 
-📅 **Current Progress:** Day 12 / 100  
+📅 **Current Progress:** Day 13 / 100  
 ⭐ **Goal:** Complete all 100 days and document each project for my own self-development.
