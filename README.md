@@ -3,7 +3,7 @@
 Hello, my name is Zakariya.  
 This repository contains my completed Python projects which I'm doing daily as part of the **100 Days of Coding Challenge**.
 
-I’m currently on **Day 12**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
+I’m currently on **Day 15**, and I’m gradually uploading my finished projects here to track my progress and learning journey.  
 This repository is still a work in progress.
 
 ---
@@ -13,7 +13,7 @@ This repository is still a work in progress.
 Coming from a **Java (Spring Boot)** background during university, I wanted to expand my programming foundation by learning **Python**, a language known for its versatility across different domains such as **web development**, **automation**, **data analysis**, and **DevOps**.
 
 My **internship exposure to FarmStack** — a Python-based full-stack system — sparked my interest in the language even more.  
-Python was used across **backend development**, **automation**, and **internal tools**, which made me want to understand it deeply and become a more **adaptable, full-stack engineer**.
+Python was used across **backend development**, **automation**, and internal tools, which made me want to understand it deeply and become a more **adaptable, full-stack engineer**.
 
 ---
 
@@ -63,6 +63,12 @@ Python was used across **backend development**, **automation**, and **internal t
 **Day 12 – [Number Guessing Game](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day12)**  
 *Topics:* Scope, Functions, Constants, Loop Logic, Clean Architecture  
 
+**Day 13 – [Debugging Exercises](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day13)**  
+*Topics:* Debugging, Fixing Code, Using print Statements, Understanding Logic Errors
+
+**Day 14 – [Higher Lower Game](https://github.com/Zakaboy26/100DaysofCode/tree/main/100DaysOfCode/Day14)**  
+*Topics:* Game Loops, Multiple Functions, Returning Values, Using Dictionaries, Comparison Logic
+
 ---
 
 ### 📘 About This Repo
@@ -72,5 +78,5 @@ Advanced portfolio projects will be added separately.
 
 ---
 
-📅 **Current Progress:** Day 12 / 100  
+📅 **Current Progress:** Day 15 / 100  
 ⭐ **Goal:** Complete all 100 days and document every project.
